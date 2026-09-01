@@ -74,19 +74,19 @@ I am **Kaladhar Royal**, a passionate **Frontend and Gen-AI Developer** from Ind
     <td width="50%" valign="top">
       <h3>🚧 Active Engineering</h3>
       <ul>
-        <li>🛒 <b>GroNest</b> – Scalable frontend & full-stack grocery platform</li>
-        <li>⚖️ <b>FairExplainAI</b> – Explainable AI & fairness assessment suite</li>
-        <li>🤖 <b>Gen-AI Applications</b> – LLM integrations & intelligent interfaces</li>
-        <li>☁️ <b>Cloud Solutions</b> – Cloud & automated deployment workflows</li>
+        <li>🍸 <b>Toniqe</b> – Premium hospitality & nightlife platform</li>
+        <li>🎓 <b>Campus Loop</b> – LMS with integrated multi-language browser IDE</li>
+        <li>💳 <b>Smart Lender</b> – ML loan approval prediction web application</li>
+        <li>🌐 <b>AI Translator</b> – Modern real-time multilingual translation suite</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Learning & Research</h3>
       <ul>
         <li>🧠 Generative AI, Prompt Engineering & LLM Orchestration</li>
-        <li>🏗️ Advanced Frontend Architecture & Next-Gen Frameworks</li>
-        <li>🌐 Distributed Systems & Event-Driven APIs</li>
-        <li>☁️ Scalable Cloud & DevOps Infrastructure</li>
+        <li>🏗️ Advanced Frontend Architecture & React Ecosystem</li>
+        <li>🎵 Audio Signal Processing & Deep Learning Classification</li>
+        <li>☁️ Scalable Full-Stack Cloud & DevOps Infrastructure</li>
       </ul>
     </td>
   </tr>
@@ -96,29 +96,68 @@ I am **Kaladhar Royal**, a passionate **Frontend and Gen-AI Developer** from Ind
 
 # 🚀 Featured Projects
 
-### 🛒 [GroNest](https://github.com/kaladharroyal/GroNest)
+### 🍸 [TONIQE](https://github.com/kaladharroyal/Toniq)
 
-> **Smart Grocery & E-Commerce Platform**  
-> Solves regional grocery procurement by offering small suppliers a digital storefront with real-time inventory processing, order pipelines, and authentication.
+> **Premium Hospitality & Nightlife Platform**  
+> A high-performance web platform featuring a cinematic frontend experience and real-time administrative dashboard, engineered with a modular monorepo architecture.
 
 - 🛠️ **Technology Stack**:
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="GroNest Tech Stack"/>
-- 🎯 **Purpose**: Digitalizes local supplier inventory, offering real-time stock processing and a smooth order tracking pipeline.
-- 🔗 **Repository**: [kaladharroyal/GroNest](https://github.com/kaladharroyal/GroNest)
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind" alt="Toniq Tech Stack"/>
+- 🎯 **Purpose**: Delivers modern reservation pipelines, event management, and intuitive administrative control for premier nightlife venues.
+- 🔗 **Repository**: [kaladharroyal/Toniq](https://github.com/kaladharroyal/Toniq)
 
 ---
 
-### ⚖️ [FairExplainAI](https://github.com/kaladharroyal/FairExplainAI)
+### 🎓 [Campus Loop](https://github.com/kaladharroyal/campus-loop)
 
-> **Explainable AI & Algorithmic Fairness Framework**  
-> Research platform extending IEEE standards to audit machine learning bias, execute 6-model benchmarking, and compute SHAP & DiCE counterfactual explanations.
+> **Campus LMS & Integrated Online IDE**  
+> Comprehensive learning management system featuring a full-fledged in-browser IDE with multi-language execution support across 10 programming languages, student dashboards, and academic workflow automation.
 
 - 🛠️ **Technology Stack**:
   <br>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn" alt="FairExplainAI Tech Stack"/>
-- 🎯 **Purpose**: Empowers machine learning practitioners to audit model decisions, ensure fairness, and visualize feature impacts in high-stakes domain models.
-- 🔗 **Repository**: [kaladharroyal/FairExplainAI](https://github.com/kaladharroyal/FairExplainAI)
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,tailwind,vscode" alt="Campus Loop Tech Stack"/>
+- 🎯 **Purpose**: Bridges campus learning with practical hands-on coding through embedded Monaco Editor environments and real-time execution tracking.
+- 🔗 **Repository**: [kaladharroyal/campus-loop](https://github.com/kaladharroyal/campus-loop)
+
+---
+
+### 💳 [Smart Lender](https://github.com/kaladharroyal/smart-lender)
+
+> **End-to-End ML Loan Approval Prediction Engine**  
+> Production-grade machine learning application utilizing an XGBoost Classifier paired with SMOTE class balancing to predict loan approval decisions with 84.94% accuracy.
+
+- 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sklearn" alt="Smart Lender Tech Stack"/>
+- 🎯 **Purpose**: Empowers financial institutions with automated, accurate risk assessment and loan qualification insights backed by MySQL and Flask.
+- 🔗 **Repository**: [kaladharroyal/smart-lender](https://github.com/kaladharroyal/smart-lender)
+
+---
+
+### 🎵 [Music Genre Classification](https://github.com/kaladharroyal/MUSIC-CLASSIFIER)
+
+> **Audio Signal Processing & Music Classifier**  
+> Machine learning and signal processing framework that extracts spectral features from audio tracks to categorize musical genres with high fidelity.
+
+- 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy" alt="Music Classifier Tech Stack"/>
+- 🎯 **Purpose**: Analyzes sound wave frequencies, MFCCs, and spectrogram patterns to enable automated audio cataloging and recommendation.
+- 🔗 **Repository**: [kaladharroyal/MUSIC-CLASSIFIER](https://github.com/kaladharroyal/MUSIC-CLASSIFIER)
+
+---
+
+### 🌐 [AI Translator](https://github.com/kaladharroyal/AI-translator)
+
+> **Real-Time Multilingual Translation Suite**  
+> Modern Flask-powered web application providing seamless cross-language text translation, automated language detection, and Text-to-Speech (TTS) capabilities.
+
+- 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js" alt="AI Translator Tech Stack"/>
+- 🎯 **Purpose**: Breaks down communication barriers with instant text translation and voice synthesis packaged in a sleek, responsive interface.
+- 🔗 **Repository**: [kaladharroyal/AI-translator](https://github.com/kaladharroyal/AI-translator)
 
 ---
 
@@ -126,11 +165,17 @@ I am **Kaladhar Royal**, a passionate **Frontend and Gen-AI Developer** from Ind
 
 | Project | Description | Primary Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 📏 **INFANTMETER** | Computer vision solution for non-invasive infant height measurement | Python, OpenCV, NumPy | [View Repository](https://github.com/kaladharroyal/INFANTMETER) |
-| 🍽️ **FOODIE-DELIGHT** | Responsive restaurant reservation and culinary platform | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/FOODIE-DELIGHT) |
-| 🧠 **DTEO** | Decision Tree Optimization & Explainability Framework | Python, Scikit-Learn | [View Repository](https://github.com/kaladharroyal/DTEO) |
-| 🌐 **hanrao-prime-portal** | Enterprise portal web application | TypeScript, React, Supabase | [View Repository](https://github.com/kaladharroyal/hanrao-prime-portal) |
-| 💻 **code-alpha** | Web development showcase tasks & components | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/code-alpha) |
+| 📅 **time-table-generator** | Automated academic timetable generation and scheduling tool | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/time-table-generator) |
+| 🎪 **grand-event-hub** | Dynamic interactive event registration and coordination hub | JavaScript, HTML, CSS | [View Repository](https://github.com/kaladharroyal/grand-event-hub) |
+| 👥 **ceeras-employee-management-system** | Workplace employee records, attendance, and role management system | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/ceeras-employee-management-system) |
+| 🗺️ **aiml-roadmap** | Structured interactive curriculum and roadmap for AI & ML mastery | HTML, CSS, Markdown | [View Repository](https://github.com/kaladharroyal/aiml-roadmap) |
+| 💡 **leetcode-problem-solving** | Curated solutions for algorithmic and data structure problems | Python | [View Repository](https://github.com/kaladharroyal/leetcode-problem-solving) |
+| 🐍 **python-problem-solving** | Core algorithmic exercises, logic puzzles, and Python foundations | Python | [View Repository](https://github.com/kaladharroyal/python-problem-solving) |
+| ☕ **java-backend** | Backend enterprise architecture, REST APIs, and OOP designs | Java | [View Repository](https://github.com/kaladharroyal/java-backend) |
+| 🏢 **ceeras** | Web application portal and component library | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/ceeras) |
+| 🎓 **college-event-management** | Showcase portal for college fests, symposiums, and cultural events | HTML, CSS | [View Repository](https://github.com/kaladharroyal/college-event-management-static-web-site) |
+| 🏆 **SIH_26107** | National-level Smart India Hackathon problem statement solution | Python | [View Repository](https://github.com/kaladharroyal/SIH_26107) |
+| 💻 **web-development** | Frontend experiments, responsive design implementations, and UI tasks | HTML, CSS, JavaScript | [View Repository](https://github.com/kaladharroyal/web-development) |
 
 ---
 
