@@ -48,6 +48,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=kaladharroyal&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="kaladharroyal trophies" />
+  </a>
+</p>
 
 ---
 
