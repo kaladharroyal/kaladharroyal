@@ -255,10 +255,10 @@ My expertise spans modern web architectures, deep learning model integration, co
 
 # 📊 GitHub Analytics
 
-### 📈 Activity Graph
+### 🔥 GitHub Streak & Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaladharroyal&bg_color=0F0F0F&color=D4AF37&line=D4AF37&point=FFD700&title_color=D4AF37&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=kaladharroyal&theme=dark&background=0F0F0F&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=ffffff&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=888888&border=0F0F0F" alt="GitHub Streak Stats"/>
 </p>
 
 ---
