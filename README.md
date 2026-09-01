@@ -1,15 +1,20 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0F0F,50:1A1A1A,100:D4AF37&text=Kaladhar%20Royal&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20•%20Gen-AI%20Developer%20•%20India&descAlignY=60&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0F0F,50:1A1A1A,100:D4AF37&text=Kaladhar%20Royal&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=18&animation=fadeIn"
     alt="Kaladhar Royal Header Banner"
   />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaladhar Royal</h1>
-<h3 align="center">A passionate frontend and gen-ai developer from India</h3>
+<h3 align="center">Full-Stack Developer • AI/ML Engineer • Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Passionate+Frontend+and+Gen-AI+Developer;Building+Next-Gen+AI+Solutions;Modern+Web+Experiences+%26+Intelligent+Pipelines;Transforming+Ideas+into+High-Impact+Software" alt="Typing Banner"/>
+  A <b>Full-Stack Developer</b> and <b>AI/ML Engineer</b> dedicated to constructing high-performance web applications and intelligent data-driven systems.<br>
+  My expertise spans modern web architectures, deep learning model integration, computer vision, and cloud engineering.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI-Powered+and+Computer+Vision+Solutions;React+-+Node.js+-+Python+-+MySQL+-+PyTorch;Transforming+Ideas+into+High-Impact+Software" alt="Typing Banner"/>
 </p>
 
 <p align="center">
@@ -53,10 +58,12 @@
 
 # 👨‍💻 About Me
 
-I am **Kaladhar Royal**, a passionate **Frontend and Gen-AI Developer** from India dedicated to constructing modern, high-performance web applications and intelligent AI-powered solutions.
+I am **Kaladhar Royal**, a **Full-Stack Developer** and **AI/ML Engineer** dedicated to constructing high-performance web applications and intelligent data-driven systems.
+
+My expertise spans modern web architectures, deep learning model integration, computer vision, and cloud engineering.
 
 - 📍 Based in: **India**
-- 💡 Specializing in: **Frontend Engineering & Generative AI**
+- 💡 Specializing in: **Full-Stack Web Development, AI/ML & Computer Vision**
 - 📫 How to reach me: **[kaladharroyal@gmail.com](mailto:kaladharroyal@gmail.com)**
 
 ### 💡 Core Engineering Principles
