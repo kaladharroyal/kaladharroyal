@@ -28,7 +28,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/kaladhar royal" target="_blank">
+    <a href="https://linkedin.com/in/kaladharroyal" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:kaladharroyal@gmail.com">
@@ -314,7 +314,7 @@
     <a href="https://twitter.com/kaladhar_royall" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaladhar_royall" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/kaladhar royal" target="_blank">
+    <a href="https://linkedin.com/in/kaladharroyal" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaladhar royal" height="30" width="40" />
     </a>
     <a href="https://fb.com/kaladharroyal" target="_blank">
@@ -329,7 +329,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/kaladhar royal" target="_blank">
+    <a href="https://linkedin.com/in/kaladharroyal" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:kaladharroyal@gmail.com">
