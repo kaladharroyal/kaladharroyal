@@ -279,10 +279,20 @@
 
   ---
 
+  ### 🧩 LeetCode Contribution Heatmap
+
+  <p align="center">
+    <a href="https://leetcode.com/u/kaladhar_royal/" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/kaladhar_royal?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Contribution Heatmap"/>
+    </a>
+  </p>
+
+  ---
+
   # 💼 Coding Profiles
 
   <p align="center">
-    <a href="https://leetcode.com/u/kaladharroyal/">
+    <a href="https://leetcode.com/u/kaladhar_royal/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
     </a>
     <a href="https://www.geeksforgeeks.org/user/kaladharroyal/">
@@ -352,3 +362,4 @@
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:D4AF37,100:0F0F0F&section=footer" alt="Footer Banner"/>
   </p>
+
